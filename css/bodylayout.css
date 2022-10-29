@@ -1,0 +1,11 @@
+body{
+background-image:url("../materila/background.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+color:white;
+}
+
+
+div.BodyLayout {
+    border:1px solid black;
+}
